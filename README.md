@@ -27,7 +27,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-
+Name:Janathul Firdhous A
+Reg No:212224040129
 */
 ```
 
